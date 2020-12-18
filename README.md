@@ -21,35 +21,39 @@ regist|注册页面
 write|写作页面
 
 ### 部分截图
-![pic_1](readme/18.jpg)
-![pic_2](readme/19.jpg)
-![pic_3](readme/16.jpg)
-![pic_4](readme/17.jpg)
-![pic_5](readme/15.jpg)
+<img src="readme/18.jpg" width = "300" align=center />
+
+<img src="readme/19.jpg" width = "300" align=center />
+
+<img src="readme/16.jpg" width = "300" align=center />
+
+<img src="readme/17.jpg" width = "300" align=center />
+
+<img src="readme/15.jpg" width = "300" align=center />
 
 ### 部署方法
 **1.安装phpstudy2018**（注意版本不是最新版的）
 
 官网地址：[phpstudy](https://www.xp.cn/)
 
-![phpstudy_1](readme/1.png)
+<img src="readme/1.png" width = "300" align=center />
 
-![phpstudy_2](readme/2.png)
+<img src="readme/2.png" width = "300" align=center />
 
 下载解压后打开，选择安装路径。
 
-![phpstudy_3](readme/3.png)
+<img src="readme/3.png" width = "300" align=center />
 
 安装完成后跳出该界面，安装完成。
 
-![phpstudy_4](readme/4.png)
+<img src="readme/4.png" width = "300" align=center />
 
 **2.安装HbuilderX**
 官网地址：[HbuilderX](https://www.dcloud.io/hbuilderx.html)
 
-![hbuilderx_1](readme/5.png)
+<img src="readme/5.png" width = "300" align=center />
 
-![hbuilderx_2](readme/6.png)
+<img src="readme/6.png" width = "300" align=center />
 
 下载完是个zip，解压后即可使用。
 
@@ -67,7 +71,7 @@ mumu：[mumu](http://mumu.163.com/)
 
 打开hbuilderx，左上角：文件 => 导入 => 从本地目录导入
 
-![hbuilderx_3](readme/7.png)
+<img src="readme/7.png" width = "300" align=center />
 
 找到前端的文件夹，导入即可。
 
@@ -75,7 +79,7 @@ mumu：[mumu](http://mumu.163.com/)
 
 打开phpstudy,点击图示的网站根目录。或者直接进入 ..\phpStudy\PHPTutorial\WWW 文件夹
 
-![phpstudy_5](readme/8.png)
+<img src="readme/8.png" width = "300" align=center />
 
 把后端的所有东西都复制粘贴进去，重复的覆盖就行了。
 
@@ -85,11 +89,11 @@ mumu：[mumu](http://mumu.163.com/)
 
 新建一个名字为 gufeng 的数据库。（这里使用的是navicat可视化操作mysql）
 
-![mysql_1](readme/9.png)
+<img src="readme/9.png" width = "300" align=center />
 
 可以用phpstudy自带的 phpMyAdmin。
 
-![mysql_2](readme/11.png)
+<img src="readme/11.png" width = "300" align=center />
 
 WWW 文件夹中的 gufeng.sql是数据库信息，可以通过navicat导入，也可以手动复制其中语句导入，导入完之后应该是有5张表。
 
@@ -99,7 +103,7 @@ WWW 文件夹中的 gufeng.sql是数据库信息，可以通过navicat导入，�
 
 打开 WWW 文件夹中的 index.php（记事本就行）。
 
-![mysql_2](readme/10.png)
+<img src="readme/10.png" width = "300" align=center />
 
 在这填上你数据库的账号密码，phpstudy自带的mysql默认密码都是 root。
 
@@ -109,7 +113,7 @@ WWW 文件夹中的 gufeng.sql是数据库信息，可以通过navicat导入，�
 
 如果用模拟器的话要配置一下adb，百度一下就可，下面是常用模拟器的adb端口。
 
-![hbuilderx_4](readme/12.png)
+<img src="readme/12.png" width = "300" align=center />
 
 模拟器名称|连接默认端口
 --|--
@@ -124,14 +128,14 @@ Genymotion|5555
 
 如果用微信开发者工具的话要配置一下安装路径
 
-![hbuilderx_5](readme/13.png)
+<img src="readme/13.png" width = "300" align=center />
 
 微信还要配置一下appid，在项目根目录的 manifest.json 里面，和之前的那个一样，在[微信公共平台](https://mp.weixin.qq.com/)弄。
 
 至此项目配置完毕，打开phpstudy，启动服务。
 
-![phpstudy_6](readme/14.png)
+<img src="readme/14.png" width = "300" align=center />
 
 然后在hbuilder里面运行前端即可。
 
-![hbuilderx_6](readme/15.png)
+<img src="readme/15.png" width = "300" align=center />
