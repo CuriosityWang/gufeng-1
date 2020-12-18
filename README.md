@@ -1,5 +1,5 @@
 ## 谷风
-[toc]
+
 ### 前言
 1. Android平台与开发技术结课作业，学习一学期的产物，有很多不足之处，如果有bug，可以到私信我的 qq:1003602926，或者我的B站账号：HsLotus，欢迎大家交流学习。
 
@@ -85,7 +85,11 @@ mumu：[mumu](http://mumu.163.com/)
 
 **6.导入数据库**
 
-要使用phpstudy自带 mysql，如果自己装了mysql要。
+打开phpstudy，启动服务。
+
+<img src="readme/14.png" width = "300" align=center />
+
+要使用phpstudy自带 mysql，用户名、密码都是root。
 
 新建一个名字为 gufeng 的数据库。（这里使用的是navicat可视化操作mysql）
 
@@ -132,9 +136,7 @@ Genymotion|5555
 
 微信还要配置一下appid，在项目根目录的 manifest.json 里面，和之前的那个一样，在[微信公共平台](https://mp.weixin.qq.com/)弄。
 
-至此项目配置完毕，打开phpstudy，启动服务。
-
-<img src="readme/14.png" width = "300" align=center />
+至此项目配置完毕。
 
 然后在hbuilder里面运行前端即可。
 
