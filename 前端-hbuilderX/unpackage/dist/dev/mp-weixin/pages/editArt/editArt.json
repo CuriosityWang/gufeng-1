@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "jin-edit": "/components/jin-edit/jin-edit"
+  }
+}

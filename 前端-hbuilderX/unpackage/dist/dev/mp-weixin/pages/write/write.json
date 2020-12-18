@@ -1,0 +1,6 @@
+{
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "jin-edit": "/components/jin-edit/jin-edit"
+  }
+}

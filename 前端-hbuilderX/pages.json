@@ -1,0 +1,71 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/index",
+			"style": {
+				"enablePullDownRefresh":true
+			}
+		}, {
+			"path": "pages/write/write",
+			"style": {
+				"enablePullDownRefresh":true
+			}
+		}, {
+			"path": "pages/my/my",
+			"style": {
+				"enablePullDownRefresh":true
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {}
+		}, {
+			"path": "pages/editArt/editArt",
+			"style": {}
+		}, {
+			"path": "pages/info/info",
+			"style": {}
+		}, {
+			"path": "pages/hot/hot",
+			"style": {}
+		}, {
+			"path": "pages/regist/regist",
+			"style": {}
+		}
+    ],
+	"globalStyle": {
+		"navigationBarTextStyle": "white",
+		"navigationBarTitleText": "谷风",
+		"navigationBarBackgroundColor": "#202020",
+		"backgroundColor": "#202020"
+	},
+	"tabBar": {
+		"backgroundColor": "#202020",
+		"color": "#747474",
+		"selectedColor": "#DE533A",
+		"list": [{
+				"pagePath": "pages/index/index",
+				"text": "文章",
+				"iconPath": "static/nav1.png",
+				"selectedIconPath": "static/nav1-a.png"
+			},
+			{
+				"pagePath": "pages/hot/hot",
+				"text": "热度",
+				"iconPath": "static/nav4.png",
+				"selectedIconPath": "static/nav4-a.png"
+			},
+			{
+				"pagePath": "pages/write/write",
+				"text": "写作",
+				"iconPath": "static/nav2.png",
+				"selectedIconPath": "static/nav2-a.png"
+			},
+			{
+				"pagePath": "pages/my/my",
+				"text": "我的",
+				"iconPath": "static/nav3.png",
+				"selectedIconPath": "static/nav3-a.png"
+			}
+		]
+	}
+}
