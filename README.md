@@ -3,7 +3,7 @@
 ### 前言
 1. Android平台与开发技术结课作业，学习一学期的产物，有很多不足之处，如果有bug，可以到私信我的邮箱:lightwxz@foxmail.com，欢迎大家交流学习。
 
-2. 这是基于 [项目实战](https://www.bilibili.com/video/BV1HE41117qN) 中的项目魔改过来的，但是所有代码都了解了一边，且很多bug也已修复，仅供参考学习，请勿用于其他用途。
+2. 学习思路参照了[uniapp前后端基础+项目实战课](https://www.bilibili.com/video/BV1HE41117qN)，所有的底层代码都复现了一遍，且很多bug也已修复，仅供参考学习，请勿用于其他用途。
 
 3. 本项目前端使用了 uniapp ，后端基于 phpstudy2018。
 
