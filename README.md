@@ -21,6 +21,9 @@ regist|注册页面
 write|写作页面
 
 ### 部分截图
+![4](https://user-images.githubusercontent.com/50990182/128476508-e0fc2f2f-29dd-4dfb-9df2-835bfc07d53a.png)
+![2](https://user-images.githubusercontent.com/50990182/128476589-dcaf6775-d773-44cb-bd1e-8108fa2f79f4.png)
+![3](https://user-images.githubusercontent.com/50990182/128476597-f465733c-d337-41e9-b802-b8b9f8a0f62e.png)
 
 ### 部署方法
 **1.安装phpstudy2018**（注意版本不是最新版的）
