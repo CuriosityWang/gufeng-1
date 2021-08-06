@@ -21,15 +21,6 @@ regist|注册页面
 write|写作页面
 
 ### 部分截图
-<img src="readme/18.jpg" width = "300" align=center />
-
-<img src="readme/19.jpg" width = "300" align=center />
-
-<img src="readme/16.jpg" width = "300" align=center />
-
-<img src="readme/17.jpg" width = "300" align=center />
-
-<img src="readme/15.jpg" width = "300" align=center />
 
 ### 部署方法
 **1.安装phpstudy2018**（注意版本不是最新版的）
