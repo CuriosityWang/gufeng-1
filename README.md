@@ -21,10 +21,10 @@ regist|注册页面
 write|写作页面
 
 ### 部分截图
-<img src="https://user-images.githubusercontent.com/50990182/128476508-e0fc2f2f-29dd-4dfb-9df2-835bfc07d53a.png" alt="4" style="zoom:33%;" />
-<img src="https://user-images.githubusercontent.com/50990182/128476589-dcaf6775-d773-44cb-bd1e-8108fa2f79f4.png" alt="2" style="zoom:33%;" />
-<img src="https://user-images.githubusercontent.com/50990182/128476597-f465733c-d337-41e9-b802-b8b9f8a0f62e.png" alt="3" style="zoom:33%;" />
-<img src="https://user-images.githubusercontent.com/50990182/128476900-515c82d4-5a2b-4d72-b78a-9d448dc46dca.png" alt="图片1" style="zoom:33%;" />
+
+| <img src="https://user-images.githubusercontent.com/50990182/128476508-e0fc2f2f-29dd-4dfb-9df2-835bfc07d53a.png" width="375" style="zoom:33%;" /> | <img src="https://user-images.githubusercontent.com/50990182/128476589-dcaf6775-d773-44cb-bd1e-8108fa2f79f4.png" alt="2"width="375" style="zoom:33%;" /> |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://user-images.githubusercontent.com/50990182/128476597-f465733c-d337-41e9-b802-b8b9f8a0f62e.png" alt="3"width="375" style="zoom:33%;" /> | <img src="https://user-images.githubusercontent.com/50990182/128476900-515c82d4-5a2b-4d72-b78a-9d448dc46dca.png" alt="图片1" width="375"style="zoom:33%;" /> |
 
 ### 部署方法
 **1.安装phpstudy2018**（注意版本不是最新版的）
